@@ -1,0 +1,49 @@
+{
+  "name": "xklysv--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "@progress/kendo-react-form": "4.7.0",
+    "@progress/kendo-licensing": "1.1.4",
+    "@progress/kendo-react-buttons": "4.7.0",
+    "@progress/kendo-react-layout": "4.7.0",
+    "@progress/kendo-react-intl": "4.7.0",
+    "@progress/kendo-react-animation": "4.7.0",
+    "@progress/kendo-react-progressbars": "4.7.0",
+    "@progress/kendo-react-inputs": "4.7.0",
+    "@progress/kendo-drawing": "1.10.1",
+    "@progress/kendo-react-dateinputs": "4.7.0",
+    "@progress/kendo-react-labels": "4.7.0",
+    "@progress/kendo-react-upload": "4.7.0",
+    "@progress/kendo-react-dropdowns": "4.7.0",
+    "@progress/kendo-react-treeview": "4.7.0",
+    "@progress/kendo-react-data-tools": "4.7.0",
+    "@progress/kendo-data-query": "1.5.5",
+    "@progress/kendo-react-popup": "4.7.0",
+    "@progress/kendo-react-common": "4.7.0",
+    "prop-types": "15.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
